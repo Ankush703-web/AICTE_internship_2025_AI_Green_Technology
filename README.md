@@ -1,4 +1,3 @@
-# AICTE_internship_2025_Green_Technology
 # 🔥 Forest Fire Detection Using Deep Learning
 
 This project implements a Convolutional Neural Network (CNN) to detect forest fires from image data. Leveraging deep learning techniques, it classifies images into **Fire** and **No Fire** categories to aid early wildfire detection and disaster response systems.
