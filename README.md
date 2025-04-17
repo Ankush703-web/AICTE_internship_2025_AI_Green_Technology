@@ -39,26 +39,18 @@ It contains two main classes:
 ⚙️ How to Run
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/forest-fire-detection.git
 cd forest-fire-detection
+
 Open the notebook in Google Colab or Jupyter:
 
 If using Colab, ensure you're connected to a GPU runtime.
 
 Install dependencies (if running locally):
 
-bash
-Copy
-Edit
 pip install tensorflow numpy matplotlib
 Use the Kaggle API to download the dataset:
 
-python
-Copy
-Edit
 from kagglehub import dataset_download
 dataset_download("elmadafri/the-wildfire-dataset")
 Run the entire notebook to train and evaluate the CNN model.
